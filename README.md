@@ -11,3 +11,5 @@ Here, the Preview Image of the My Gallery:
 
 ![Preview Image](gall1.png)
 
+![Preview_Image](gall2.png).
+
